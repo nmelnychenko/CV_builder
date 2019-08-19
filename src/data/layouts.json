@@ -1,0 +1,20 @@
+[
+  {
+    "container": {
+      "sider": {},
+      "container": {
+        "header": {},
+        "content": {},
+        "footer": {}
+      }
+    }
+  },
+  {
+    "header": {},
+    "container": {
+      "sider": {},
+      "content": {}
+    },
+    "footer": {}
+  }
+]
